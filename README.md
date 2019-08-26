@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/dp-us-bus/TrainingDemoFaizan/_apis/build/status/faizanas.ContosoAir-1?branchName=master)](https://dev.azure.com/dp-us-bus/TrainingDemoFaizan/_build/latest?definitionId=48&branchName=master)	
 
 
 # Microsoft.Github CI Demo
